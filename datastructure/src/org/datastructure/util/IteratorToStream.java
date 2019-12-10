@@ -1,4 +1,4 @@
-package org.inkreaders.util;
+package org.datastructure.util;
 
 import java.util.Arrays;
 import java.util.Iterator;

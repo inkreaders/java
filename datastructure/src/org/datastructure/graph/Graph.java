@@ -1,4 +1,4 @@
-package org.inkreaders.graph;
+package org.datastructure.graph;
 
 import java.util.HashMap;
 import java.util.HashSet;

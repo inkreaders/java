@@ -1,11 +1,11 @@
-package org.inkreaders.stack;
+package org.datastructure.stack;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
-import org.inkreaders.util.IteratorToStream;
+import org.datastructure.util.IteratorToStream;
 
 public class Stack<Item> implements Iterable<Item> {
 

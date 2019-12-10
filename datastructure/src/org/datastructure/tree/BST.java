@@ -1,4 +1,4 @@
-package org.inkreaders.tree;
+package org.datastructure.tree;
 
 public class BST<Key extends Comparable<Key>, Value> {
 

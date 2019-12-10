@@ -1,4 +1,4 @@
-package org.inkreaders.queue;
+package org.datastructure.queue;
 
 import java.util.Iterator;
 
